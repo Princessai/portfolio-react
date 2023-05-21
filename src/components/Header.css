@@ -1,0 +1,13 @@
+.navBar {
+    background-color: rgb(241, 181, 247);
+
+}
+ 
+.collapse {
+    display: flex; 
+    justify-content: space-between ;
+}
+.btn {
+    color: #fff !important;
+    background-color: #F1C63D !important;
+}

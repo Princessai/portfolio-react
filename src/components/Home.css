@@ -1,0 +1,52 @@
+@font-face {
+    font-family: Kanit;
+    src: url(./polices/Kanit/Kanit-Regular.ttf);
+}
+
+body {
+    font-family: Kanit;
+}
+.presentation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 90vh;
+    flex-wrap: wrap;
+}
+
+.illustration {
+    background-image: url(./img/illustration-removebg-preview.png);
+    width: 452px;
+    height: 451px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 64px;
+}
+p {
+    font-size: 34px;
+}
+
+.card-img-top {
+    height: 12rem;
+    width: 25rem;
+    border-top-left-radius: 15px !important;
+    border-top-right-radius: 15px !important;
+}
+.some-projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.some-projects div {
+    flex-wrap: wrap;
+}
+
+.boutons a{
+    color: #F1C63D;
+}
+.boutons a:hover{
+    color: #FF7CD7;
+}
