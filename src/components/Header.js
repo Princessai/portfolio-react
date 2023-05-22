@@ -11,11 +11,6 @@ function Header() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <a className="navbar-brand" href="#">Oumou Web Developper</a>
-          <div className="navbar-nav">
-            <a className="nav-link" href="#">Mes réalisations</a>
-            <a className="nav-link" href="#">A propos</a>
-            <a className="nav-link" href="#">Contact</a>
-          </div>
           <a href='/CV.docx' download className='btn '>Télécharger mon CV</a>
         </div>
       </nav>
