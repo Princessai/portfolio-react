@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.4b43d84c.css",
-    "main.js": "/portfolio-react/static/js/main.708cd753.js",
+    "main.js": "/portfolio-react/static/js/main.95cb86bd.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/accueil.png": "/portfolio-react/static/media/accueil.2d0f32ff2c305bd4c89a.png",
     "static/media/galerie-JS.png": "/portfolio-react/static/media/galerie-JS.696746a6fc3171e1863c.png",
@@ -11,13 +11,15 @@
     "static/media/homepage2.png": "/portfolio-react/static/media/homepage2.754ce94ef564afe25829.png",
     "static/media/illustration-removebg-preview.png": "/portfolio-react/static/media/illustration-removebg-preview.78d0f6a9db5aab8448f9.png",
     "static/media/first-section.png": "/portfolio-react/static/media/first-section.81b8c21a3bf244673dcf.png",
+    "static/media/pomodoro.png": "/portfolio-react/static/media/pomodoro.67e42610837833592d0c.png",
+    "static/media/calculatrice.png": "/portfolio-react/static/media/calculatrice.822c0a840a9a0638026c.png",
     "index.html": "/portfolio-react/index.html",
     "main.4b43d84c.css.map": "/portfolio-react/static/css/main.4b43d84c.css.map",
-    "main.708cd753.js.map": "/portfolio-react/static/js/main.708cd753.js.map",
+    "main.95cb86bd.js.map": "/portfolio-react/static/js/main.95cb86bd.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b43d84c.css",
-    "static/js/main.708cd753.js"
+    "static/js/main.95cb86bd.js"
   ]
 }
