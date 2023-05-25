@@ -53,8 +53,24 @@ function Home() {
       demo: 'https://princessai.github.io/projetFlexbox/',
       code: 'https://github.com/Princessai/projetFlexbox'
     },
-  ];
+    {
+      id: 7,
+      src: require("./img/pomodoro.png"),
+      name: 'Pomodoro infinie',
+      alt: "Image d'illustration",
+      demo: 'https://princessai.github.io/pomodoro-react/',
+      code: 'https://github.com/Princessai/pomodoro-react'
+    },
+    {
+      id: 8,
+      src: require("./img/calculatrice.png"),
+      name: 'Calculatrice jQuery',
+      alt: "Image d'illustration",
+      demo: 'https://princessai.github.io/projet-calculatrice/',
+      code: 'https://github.com/Princessai/projet-calculatrice'
+    },
 
+  ];
 
   return (
     <div>
@@ -66,7 +82,7 @@ function Home() {
             Je suis Oumou Coulibaly, <br />
             Développeuse Front-End.
           </p>
-          <a href='/CV.docx' download className='btn '>Télécharger mon CV</a>
+          <a href="./cv/CV.docx" download className='btn '>Télécharger mon CV</a>
 
         </div>
 
